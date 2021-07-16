@@ -12,3 +12,4 @@ var repeatIt = function(str, n) {
     }
     return result
   }
+  console.log(repeatIt('bless',3))
